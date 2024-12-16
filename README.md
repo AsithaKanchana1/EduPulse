@@ -36,7 +36,7 @@ The Eligibility Checker App is a React Native application designed to calculate 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/eligibility-checker.git
+   git clone https://github.com/AsithaKanchana1/eligibility-checker.git
    cd eligibility-checker
    ```
 
@@ -84,8 +84,8 @@ Contributions are welcome! Feel free to open a pull request or raise an issue if
 
 ## 📧 Contact
 For any queries or feedback, reach out to me on:
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin/)
+- GitHub: [@Asithakanchana1](https://github.com/Asithakanchana1)
+- LinkedIn: [Asitha Kanchana](https://www.linkedin.com/in/asitha-kanchana-35aa531a8/)
 
 ---
 **Disclaimer**: Ensure the links to the APK/IPA files are updated after upload.
