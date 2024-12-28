@@ -89,5 +89,3 @@ For any queries or feedback, reach out to me on:
 - GitHub: [@Asithakanchana1](https://github.com/Asithakanchana1)
 - LinkedIn: [Asitha Kanchana](https://www.linkedin.com/in/asitha-kanchana-35aa531a8/)
 
----
-**Disclaimer**: Ensure the links to the APK/IPA files are updated after upload.
