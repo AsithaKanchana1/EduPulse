@@ -86,6 +86,7 @@ Contributions are welcome! Feel free to open a pull request or raise an issue if
 
 ## 📧 Contact
 For any queries or feedback, reach out to me on:
+- Email Me: [@Email](mail:asitha.contact.me@gmail.com)
 - GitHub: [@Asithakanchana1](https://github.com/Asithakanchana1)
 - LinkedIn: [Asitha Kanchana](https://www.linkedin.com/in/asitha-kanchana-35aa531a8/)
 
