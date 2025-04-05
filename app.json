@@ -2,9 +2,9 @@
   "expo": {
     "name": "EduPulse",
     "slug": "edupulse",
-    "version": "1.0.0",
+    "version": "3.0.0",
     "orientation": "portrait",
-    "icon": "./assets/asi_logo.png",
+    "icon": "./assets/asi_logo.png", //icon file path
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -27,7 +27,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "f9529bb6-99f4-4003-ac06-81fc18832672"
+        "projectId": "f9529bb6-99f4-4003-ac06-81fc18832672" 
       }
     }
   }

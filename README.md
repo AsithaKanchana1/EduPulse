@@ -3,7 +3,7 @@
 ## 🚀 Finished Product
 
 You can download the executable files for the app:
-## Version 2.5 is Out Now 
+## Version 3.0 is Out Now 
 
 - [![Download Installer](https://img.shields.io/badge/Download-File-blue)](https://drive.google.com/drive/folders/12Bd9q7xk0Fs-JFms5lmDP8ttdUihr5vD?usp=sharing)
 
@@ -16,6 +16,8 @@ The Eligibility Checker App is a React Native application designed to calculate 
   <img src="/assets/ss2.png" width="200" />
   <img src="/assets/ss3.png" width="200" />
   <img src="/assets/ss4.png" width="200" />
+  <img src="/assets/ss5.png" width="200" />
+  <img src="/assets/ss6.png" width="200" />
 </p>
 
 ## 🛠️ Technologies Used
@@ -26,7 +28,12 @@ The Eligibility Checker App is a React Native application designed to calculate 
 - **React Native Linking API**: To handle external link redirection.
 - **JavaScript**: Programming language used for app logic.
 
-## 📱 Features
+## 📱 New Features
+- New interface update 
+- more featurse
+- small bug fixes
+
+## main funtionality
 1. Dropdown menu to select a course.
 2. Dynamic input fields based on the selected course.
 3. Eligibility calculation based on user input.
