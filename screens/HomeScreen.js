@@ -52,10 +52,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5F5F5',
   },
   heading: {
-    fontSize: 24,
+    fontSize: 30,
     marginBottom: 30,
     textAlign: 'center',
     fontWeight: 'bold',
+    color:'red'
   },
   button: {
     marginVertical: 10,
