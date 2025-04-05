@@ -1,9 +1,9 @@
-# Eligibility Checker App
+# EduPulse App
 
 ## 🚀 Finished Product
 
 You can download the executable files for the app:
-## Version 2.0.1 is Out Now 
+## Version 2.5 is Out Now 
 
 - [![Download Installer](https://img.shields.io/badge/Download-File-blue)](https://drive.google.com/drive/folders/12Bd9q7xk0Fs-JFms5lmDP8ttdUihr5vD?usp=sharing)
 

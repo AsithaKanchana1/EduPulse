@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "eligibility-checker",
-    "slug": "eligibility-checker",
+    "name": "EduPulse",
+    "slug": "edupulse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/asi_logo.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/asi_logo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.eligibilitychecker.asi"
+      "package": "com.asi.edupulse"
     },
     "web": {
       "favicon": "./assets/asi_logo.png"
