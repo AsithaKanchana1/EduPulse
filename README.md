@@ -5,11 +5,18 @@
 You can download the executable files for the app:
 ## Version 2.0.1 is Out Now 
 
-- [**Download Android APK**](https://drive.google.com/drive/folders/12Bd9q7xk0Fs-JFms5lmDP8ttdUihr5vD?usp=sharing)
-- [**Download iOS IPA**](https://drive.google.com/drive/folders/1hkx_5YDa0-F_A9E9Q9Lwg8PDwNwMv3AZ?usp=sharing)
+- [![Download Installer](https://img.shields.io/badge/Download-File-blue)](https://drive.google.com/drive/folders/12Bd9q7xk0Fs-JFms5lmDP8ttdUihr5vD?usp=sharing)
 
 ## 📖 Overview
 The Eligibility Checker App is a React Native application designed to calculate eligibility for final exams based on specific criteria for various courses. Users can input their course data, and the app determines whether they meet the eligibility requirements.
+## Interface 
+
+<p float="left">
+  <img src="/assets/ss1.png" width="200" />
+  <img src="/assets/ss2.png" width="200" />
+  <img src="/assets/ss3.png" width="200" />
+  <img src="/assets/ss4.png" width="200" />
+</p>
 
 ## 🛠️ Technologies Used
 - **React Native**: For building the cross-platform mobile app.
