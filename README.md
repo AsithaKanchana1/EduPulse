@@ -1,9 +1,9 @@
-# Eligibility Checker App
+# EduPulse App
 
 ## 🚀 Finished Product
 
 You can download the executable files for the app:
-## Version 2.0.1 is Out Now 
+## Version 2.5 is Out Now 
 
 - [**Download Android APK**](https://drive.google.com/drive/folders/12Bd9q7xk0Fs-JFms5lmDP8ttdUihr5vD?usp=sharing)
 - [**Download iOS IPA**](https://drive.google.com/drive/folders/1hkx_5YDa0-F_A9E9Q9Lwg8PDwNwMv3AZ?usp=sharing)
